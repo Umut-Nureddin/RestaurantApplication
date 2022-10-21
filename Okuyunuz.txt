@@ -1,0 +1,5 @@
+Login.cs içinde lisans keyler var
+
+kullanıcı girişi
+ıd 1 
+sifre 1
