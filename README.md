@@ -1,0 +1,1 @@
+# 1 ekim yeni sql li
