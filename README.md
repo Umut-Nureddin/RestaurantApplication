@@ -11,4 +11,6 @@ WinFormApp for Restaurants
 
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver16
 
+if you have eror like sql 120.dll Delete sql types folder 
+
 
